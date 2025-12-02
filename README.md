@@ -1,7 +1,5 @@
 # **AI Ethics & Policy Dataset Scrapping**
 
-- **DSCI-511 Final Project**
-
 This repository contains all notebooks, data, and documentation used to build a unified global dataset of AI policies and ethics initiatives.
 The project integrates information from OECD, UNESCO, and the White House OSTP to support research and analysis of worldwide AI governance efforts.
 
