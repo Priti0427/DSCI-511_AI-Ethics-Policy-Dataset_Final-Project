@@ -128,3 +128,9 @@ All data sources are publicly accessible:
 - Automate PDF text extraction for NLP
 - Add language detection + translation
 - Expand dataset filtering for multilingual research
+
+## Team Members:
+- Priti Sagar(pp693@drexel.edu)
+- Leili Massoum Zadeh (lm3662@drexel.edu)
+- Mohammad Husnain Sikandar (ms5875@drexel.edu)
+- Nikhil Anil(na3236@drexel.edu)
