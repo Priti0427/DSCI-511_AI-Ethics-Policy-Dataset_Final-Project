@@ -9,7 +9,7 @@
 ### Policy initiative ID
 
 - **Type:** Integer
-- **Description:** Unique identifier of the policy initiative in the OECD STIP/OECD.AI database.
+- **Description:** Unique identifier of the policy initiative in the OECD OECD.AI database.
 
 ### Platform URL
 - **Type:** String
@@ -21,7 +21,7 @@
 
 ### Original name(s)
 - **Type:** String
-- **Description:** Initiative name in the original language(s), if different from English.
+- **Description:** Initiative name in the original language, if different from English.
 
 ### Country
 
@@ -36,7 +36,7 @@
 ### Description
 
 - **Type:** String
-- **Description:** Short narrative description of the policy initiative’s content and scope.
+- **Description:** Short description of the policy initiative’s content and scope.
 
 ### Theme area(s)
 
