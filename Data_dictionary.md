@@ -3,7 +3,6 @@
 - Number of rows: 1,886 policy initiatives
 - Number of columns: 26 variables describing national and regional AI-related policy initiatives and associated instruments
 
----
 
 ## Variables
 
@@ -13,17 +12,14 @@
 - **Description:** Unique identifier of the policy initiative in the OECD STIP/OECD.AI database.
 
 ### Platform URL
-
 - **Type:** String
 - **Description:** URL to the initiative’s entry on the OECD.AI platform.
 
 ### English name
-
 - **Type:** String
 - **Description:** Official English-language title of the policy initiative.
 
 ### Original name(s)
-
 - **Type:** String
 - **Description:** Initiative name in the original language(s), if different from English.
 
