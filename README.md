@@ -1,4 +1,4 @@
-# 📘 **AI Ethics & Policy Dataset Project**
+# **AI Ethics & Policy Dataset Scrapping**
 
 - **DSCI-511 Final Project**
 
