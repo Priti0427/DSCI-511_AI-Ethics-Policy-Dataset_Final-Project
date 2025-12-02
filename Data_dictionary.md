@@ -6,23 +6,20 @@
 
 ## Variables
 
-#### Policy initiative ID
+### Policy initiative ID
 
 - **Type:** Integer
 - **Description:** Unique identifier of the policy initiative in the OECD STIP/OECD.AI database.
 
-#### Platform URL
-
+### Platform URL
 - **Type:** String
 - **Description:** URL to the initiative’s entry on the OECD.AI platform.
 
 ### English name
-
 - **Type:** String
 - **Description:** Official English-language title of the policy initiative.
 
 ### Original name(s)
-
 - **Type:** String
 - **Description:** Initiative name in the original language(s), if different from English.
 
