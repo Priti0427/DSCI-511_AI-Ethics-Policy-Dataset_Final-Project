@@ -57,6 +57,10 @@ Our dataset draws exclusively from publicly accessible and authoritative sources
 - PDF version downloaded separately via official OSTP storage link
 
 ---
+**Technologies Used** :
+- Python for data collection and processing
+- Web APIs for automated data retrieval
+- Beautiful Soup (Python library) for web scraping and HTML parsing
 
 ## **Approach & Workflow**
 
