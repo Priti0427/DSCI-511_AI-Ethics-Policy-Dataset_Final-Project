@@ -1,6 +1,6 @@
 # 📘 **AI Ethics & Policy Dataset Project**
 
-- DSCI-511 Final Project\*
+- **DSCI-511 Final Project**
 
 This repository contains all notebooks, data, and documentation used to build a unified global dataset of AI policies and ethics initiatives.
 The project integrates information from OECD, UNESCO, and the White House OSTP to support research and analysis of worldwide AI governance efforts.
@@ -11,7 +11,7 @@ The project integrates information from OECD, UNESCO, and the White House OSTP t
 
 ### **1. Notebooks**
 
-- **Part_1_Data_scrapping_OECD.ipynb** – Cleans and preprocesses the original OECD dataset; removes low-quality columns; normalizes fields; prepares dataset for enrichment.
+- **Part_1_Data_scrapping_OECD.ipynb** – Scrapes, Cleans and preprocesses the original OECD dataset; removes low-quality columns; normalizes fields; prepares dataset for enrichment.
 - **Part_2_data_scrapping_UNESCO_WhiteHouse.ipynb** – Scrapes and integrates UNESCO and OSTP policy documents; standardizes them to the OECD schema; saves final enriched dataset.
 
 ### **2. Presentation**
@@ -49,7 +49,6 @@ Our dataset draws exclusively from publicly accessible and authoritative sources
 - We therefore used the **official UNESDOC Catalogue API** to retrieve clean metadata
 - Extracted fields include title, publication year, languages, document code, and license information
 - Standardized to OECD’s schema during merging
-  (Document acquisition method described on page 9 of the presentation)
 
 ### **White House OSTP – Blueprint for an AI Bill of Rights**
 
@@ -61,9 +60,8 @@ Our dataset draws exclusively from publicly accessible and authoritative sources
 
 ## **Approach & Workflow**
 
-### **1. Data Cleaning (OECD Dataset)**
-
-As documented in _Data-formatting.ipynb_:
+### **1. Data Scrapping and Cleaning (OECD Dataset)**
+Documented in Part_1_Data_scrapping_OECD.ipynb:
 
 - Inspected missing values
 - Removed columns with >60% missing entries
@@ -74,7 +72,7 @@ As documented in _Data-formatting.ipynb_:
 
 ### **2. Enrichment with UNESCO & OSTP**
 
-Based on _data-UNESCO-WhiteHouse.ipynb_:
+Documented in Part_2_Data_scrapping_UNESCO_WhiteHouse.ipynb:
 
 - Queried UNESCO via API
 - Scraped OSTP HTML
